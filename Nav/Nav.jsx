@@ -5,7 +5,7 @@ import User from "../Images/user.png";
 
 const Header = () => {
   return (
-    <div className="fixed z-50 w-screen p-3 px-4 md:p-6 md:px-20">
+    <div className="fixed z-50 w-screen p-3 px-4 md:p-6 md:px-20 bg-blue-50">
         {/* Laptop */}
         <div className="hidden md:flex w-full h-full">
                 <img src={Logo} className="w-12 object-cover" alt="logo"/>
