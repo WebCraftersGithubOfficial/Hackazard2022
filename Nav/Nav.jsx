@@ -37,7 +37,7 @@ const Nav = () => {
             </div>
         </div>
             <img src={Logo} className="w-12 object-cover" alt="logo"/>
-        <img src={User} className="w-5 h-5 relative top-6 -right-5 cursor-pointer mr-4" alt="user" />  
+        <img src={User} className="w-5 h-5 relative top-6 -right-5 cursor-pointer mr-8" alt="user" />  
         </div>
     </div>
   );
