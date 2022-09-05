@@ -3,7 +3,7 @@ import Logo from "../Images/logo.png";
 import { MdShoppingCart } from "react-icons/md";
 import User from "../Images/user.png";
 
-const Header = () => {
+const Nav = () => {
   return (
     <div className="fixed z-50 w-screen p-3 px-4 md:p-6 md:px-20 bg-blue-50">
         {/* Laptop */}
@@ -43,4 +43,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Nav;
